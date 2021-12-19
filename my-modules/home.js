@@ -1,31 +1,32 @@
 import createElement from './createElement'
 import '../src/home.css'
+import background from '../src/assets/background.jpg'
 
 const content =  [
     {
         title: "All You Can Eat Buffet",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed massa arcu, porta ac eros ac, imperdiet dapibus mauris. Cras tempor, lacus quis lacinia placerat, dui enim malesuada magna, quis bibendum leo arcu non felis. Sed sed purus ac lectus lobortis lacinia et ut libero. Aliquam sed nisl sem. Etiam ac urna ut purus imperdiet facilisis. In nec mauris turpis. Integer in commodo lacus.",
-        img: '../src/assets/background.jpg'
+        img: background
     },
     {
         title: "All You Can Eat Buffet",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed massa arcu, porta ac eros ac, imperdiet dapibus mauris. Cras tempor, lacus quis lacinia placerat, dui enim malesuada magna, quis bibendum leo arcu non felis. Sed sed purus ac lectus lobortis lacinia et ut libero. Aliquam sed nisl sem. Etiam ac urna ut purus imperdiet facilisis. In nec mauris turpis. Integer in commodo lacus.",
-        img: '../src/assets/background.jpg'
+        img: background
     },
     {
         title: "All You Can Eat Buffet",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed massa arcu, porta ac eros ac, imperdiet dapibus mauris. Cras tempor, lacus quis lacinia placerat, dui enim malesuada magna, quis bibendum leo arcu non felis. Sed sed purus ac lectus lobortis lacinia et ut libero. Aliquam sed nisl sem. Etiam ac urna ut purus imperdiet facilisis. In nec mauris turpis. Integer in commodo lacus.",
-        img: '../src/assets/background.jpg'
+        img: background
     },
     {
         title: "All You Can Eat Buffet",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed massa arcu, porta ac eros ac, imperdiet dapibus mauris. Cras tempor, lacus quis lacinia placerat, dui enim malesuada magna, quis bibendum leo arcu non felis. Sed sed purus ac lectus lobortis lacinia et ut libero. Aliquam sed nisl sem. Etiam ac urna ut purus imperdiet facilisis. In nec mauris turpis. Integer in commodo lacus.",
-        img: '../src/assets/background.jpg'
+        img: background
     },
     {
         title: "All You Can Eat Buffet",
         text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed massa arcu, porta ac eros ac, imperdiet dapibus mauris. Cras tempor, lacus quis lacinia placerat, dui enim malesuada magna, quis bibendum leo arcu non felis. Sed sed purus ac lectus lobortis lacinia et ut libero. Aliquam sed nisl sem. Etiam ac urna ut purus imperdiet facilisis. In nec mauris turpis. Integer in commodo lacus.",
-        img: '../src/assets/background.jpg'
+        img: background
     },
 ]
 
