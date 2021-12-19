@@ -1,0 +1,78 @@
+@font-face {
+    font-family:love-light ;
+    src: url(./assets/LoveLight-Regular.ttf);
+    font-weight: 300;
+}
+
+body{
+    margin: 0px;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* gap: 20px; */
+}
+
+header h1{
+    font-family: love-light;
+    font-size: 80px;
+    margin: 30px auto 20px auto;
+}
+
+header p{
+    text-align: center;
+    /* border: 1px solid; */
+}
+
+nav{
+    margin-bottom: 20px;
+}
+
+nav ul{
+    list-style-type: none;
+    border: 1px solid;
+    margin: 0px;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 0px;
+}
+
+nav ul li{
+    flex: 1;
+    text-align: center;
+    display: flex;
+}
+
+
+nav ul li:hover {
+    background-color: #424242;
+}
+
+
+nav ul li:hover a{
+    color: white;
+}
+
+
+nav ul li a{
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+    flex: 1;
+}
+
+main{
+    padding: 5px;
+}
+
+.active{
+    background-color: black;
+    color: white;
+}
